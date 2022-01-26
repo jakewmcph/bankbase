@@ -76,7 +76,7 @@ public abstract class BankAccount {
    * @return string containing name of author
    */
   public static String getClassAuthor() {
-    return "David G. Green";
+    return "Jake W. McPhearson";
   }
 
   /**
